@@ -1,0 +1,9 @@
+.Month {
+  width: 10%;
+  padding: 5%;
+  border-width: 5%;
+  margin: 1%;
+  border-style: solid;
+  float: left;
+  text-align: center;
+}
